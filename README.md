@@ -27,5 +27,5 @@
 
 **参考资料：**
 
-- (树莓派无显示器上手步骤)[http://www.eeboard.com/bbs/forum.php?mod=viewthread&tid=27029]
-- (树莓派手动玩(开启SSH,VNC))[http://www.jianshu.com/p/a011d01bdf51]
+- [树莓派无显示器上手步骤](http://www.eeboard.com/bbs/forum.php?mod=viewthread&tid=27029)
+- [树莓派手动玩(开启SSH,VNC)](http://www.jianshu.com/p/a011d01bdf51)
